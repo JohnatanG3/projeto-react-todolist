@@ -24,7 +24,9 @@ Este é um aplicativo de lista de tarefas desenvolvido com React e styled-compon
 
 - **uuid**
 
-## 📸 Demonstração 
+## 📸 Demonstração
+
+Você pode visualizar o site [aqui](https://johnatang3.github.io/projeto-react-todolist/).
 
 ## 🖼️ Prévia do Projeto
 
